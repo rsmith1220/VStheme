@@ -1,0 +1,36 @@
+{
+    "name": "mi-extension",
+    "displayName": "mi-extension",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Ku",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Ku-color-theme.json"
+            }
+        ]
+    },
+    "dependencies": {
+        "vsce": "^1.94.0"
+    },
+    
+    "author": {
+        "name": "Rebecca Smith",
+        "email": "rebecca.smith122@gmail.com"
+    },
+    "repository": {
+        "url": "https://github.com/rsmith1220/VStheme.git",
+        "type": "git"
+    },
+    "publisher": "Rebecca"
+    
+
+}
