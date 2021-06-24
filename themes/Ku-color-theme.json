@@ -4,8 +4,19 @@
 	"colors": {
 		"editor.background": "#151b1f",
 		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"activityBarBadge.background": "#f587d9",
+		"sideBarTitle.foreground": "#bbbbbb",
+		"sideBarSectionHeader.background": "#0a011f",
+
+		"activityBar.background": "#0a011f",
+		"statusBar.background": "#0a011f",
+		"titleBar.activeBackground": "#0a011f",
+		"tab.inactiveBackground": "#321f35",
+		"tab.activeBorder": "#f389d8",
+
+		"window.activeBorder": "#f389d8",
+		"window.inactiveBorder": "#6ceec2"
+
 	},
 	"tokenColors": [
 		{
@@ -56,7 +67,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#9993f1"
+				"foreground": "#bbb6fc"
 			}
 		},
 		{

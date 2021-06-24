@@ -1,8 +1,8 @@
 {
     "name": "mi-extension",
-    "displayName": "mi-extension",
+    "displayName": "A bit of pastel",
     "description": "",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.57.0"
     },
@@ -21,7 +21,7 @@
     "dependencies": {
         "vsce": "^1.94.0"
     },
-    
+    "icon": "icons/color.png",
     "author": {
         "name": "Rebecca Smith",
         "email": "rebecca.smith122@gmail.com"

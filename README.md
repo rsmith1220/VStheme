@@ -1,3 +1,3 @@
-** File Extension **
+
 ## Enjoy :)
 
