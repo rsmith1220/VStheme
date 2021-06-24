@@ -2,7 +2,7 @@
     "name": "mi-extension",
     "displayName": "A bit of pastel",
     "description": "",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.57.0"
     },
