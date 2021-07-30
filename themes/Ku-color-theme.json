@@ -28,7 +28,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#b0ff98"
+				"foreground": "#9bf180"
 			}
 		},
 		{
@@ -88,7 +88,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#48f1bf"
+				"foreground": "#48f1cc"
 			}
 		},
 		{
