@@ -4,11 +4,11 @@
 **Dark theme with some pastel colors and and a dark blue background**
 
 
-**Java**
+**Python**
 
 <img src="/icons/java.png" alt="Muestra#1"/>
 
-**python**
+**Java**
 
 <img src="/icons/python.png" alt="Muestra#1"/>
 
